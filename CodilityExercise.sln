@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodilityExerciseAndDataStructures", "CodilityExercise\CodilityExerciseAndDataStructures.csproj", "{D18FEEEF-A784-4A2E-ABEC-3DC38AE8F82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{02B706D8-8D1B-48E3-89E1-50F7F3C38BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18FEEEF-A784-4A2E-ABEC-3DC38AE8F82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18FEEEF-A784-4A2E-ABEC-3DC38AE8F82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18FEEEF-A784-4A2E-ABEC-3DC38AE8F82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18FEEEF-A784-4A2E-ABEC-3DC38AE8F82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B706D8-8D1B-48E3-89E1-50F7F3C38BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B706D8-8D1B-48E3-89E1-50F7F3C38BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B706D8-8D1B-48E3-89E1-50F7F3C38BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B706D8-8D1B-48E3-89E1-50F7F3C38BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
